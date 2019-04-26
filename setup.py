@@ -16,6 +16,6 @@ setup(
         'six',
         'future'
     ],
-    long_description=open('Readme.md').read(),
+    long_description='heospy',
     long_description_content_type='text/markdown'
 )
